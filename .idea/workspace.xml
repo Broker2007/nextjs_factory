@@ -4,163 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf22cc6c-04d5-4755-a320-d9913c6d58f2" name="Changes" comment="Inal commit ffgfm Cre">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bgc_main_line.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bgc_main_line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductsData/ProductsData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/about/page.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/about/page.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/contact/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/contact/page.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/contact/page.module.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/equipment/page.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/equipment/page.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/globals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/page.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/page.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/products/Products.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/products/[id]/page.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/products/page.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Calling.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Calling2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Image_Carousel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Image_Carousel2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Location.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Message.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/arrow1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/arrow1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/arrow_left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bgc_main — копия.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bgc_main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bgc_main2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bgc_main2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bgc_min.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bgc_min.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bgc_min2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/card_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/delivery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/equipment/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/equipment/cam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/equipment/gasparini.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/equipment/stan1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/equipment/stan2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/equipment/stan3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image_bgc2_about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image_bgc3_about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image_bgc_about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/logo_vek.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/mail.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/milling.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/order.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/original.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/phone_header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/Image_Carousel2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/baraban.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/bmh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/bp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/cas1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/casP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/davl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/galer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/imageP1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/kaps.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/kass.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/kat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/kont.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/kont2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/lest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/nak.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/nakop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/ogrj.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/ogrj1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/piramida.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/place.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/place1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/podmost.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/rolk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/shest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/shit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/stan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/tar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/upl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/voronka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/Бак для воды.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/Люлька для монолитчика.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/бадья.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/валы.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/захват маршей.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/катки.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/маховики.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/утепленныйящик.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/фланцы.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/шкаф.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/product/щиты.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/telegram_zltwtqsi7okn.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/warning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/whatsapp.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/ВЕКТОР_transparent-.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MySort/MySort.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MySort/MySort.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion1/Accordion/Accordion.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion1/Accordion/Accordion.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion1/AccordionItem/AccordionItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion1/AccordionItem/AccordionItem.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion2/Accordion2/Accordion2.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion2/Accordion2/Accordion2.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion2/AccordionItem/AccordionItem2.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion2/AccordionItem/AccordionItem2.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/AccordionHr1/AccordionHr/AccordionHr.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/AccordionHr1/AccordionHr/AccordionHr.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/AccordionHr1/AccordionItemHr/AccordionItemHr.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/AccordionHr1/AccordionItemHr/AccordionItemHr.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MenuButton/MenuButton.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyArea/MyArea.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyArea/MyArea.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyButton/MyButton.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyButton/MyButton.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyButtonForm/MyButtonForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyButtonForm/MyButtonFrom.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyButtonProduct/MyButtonProduct.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyCarousel/MyCarousel.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyCarousel/MyCarousel.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyForm/MyForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyForm/MyForm.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyInput/MyInput.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MyInput/MyInput.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/MySearch/MySearch.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useClickOutside.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useContactForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useMediaQuery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useOutsideAlerter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/scss/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/scss/app.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/scss/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/scss/breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/scss/classes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/scss/fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/scss/vars.scss" afterDir="false" />
-    </list>
+    <list default="true" id="cf22cc6c-04d5-4755-a320-d9913c6d58f2" name="Changes" comment="Inal commit ffgfm Cre" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,23 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Работа/Заказ Леша/my-app/src/components/ui/Accordion2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Работа/Заказ Леша/my-app/src/components/ui/Accordion2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
@@ -273,6 +117,7 @@
       <workItem from="1741361162299" duration="389000" />
       <workItem from="1741361572725" duration="269000" />
       <workItem from="1741362571246" duration="2000" />
+      <workItem from="1741362579786" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit from Create Next App">
       <created>1741301832742</created>
