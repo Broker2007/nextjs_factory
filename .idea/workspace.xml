@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf22cc6c-04d5-4755-a320-d9913c6d58f2" name="Changes" comment="Inal commit ffgfm Cre">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/my-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/bgc_main_line.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/bgc_main_line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductsData/ProductsData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about/page.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/contact/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/contact/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/contact/page.module.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/equipment/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/equipment/page.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/globals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/page.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/products/Products.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/products/[id]/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/products/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Calling.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Calling2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Image_Carousel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Image_Carousel2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/arrow1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/arrow1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/arrow_left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bgc_main — копия.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bgc_main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bgc_main2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bgc_main2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bgc_min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bgc_min.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bgc_min2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/card_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/delivery.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/equipment/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/equipment/cam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/equipment/gasparini.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/equipment/stan1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/equipment/stan2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/equipment/stan3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/image_bgc2_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/image_bgc3_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/image_bgc_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo_vek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/milling.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/order.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/phone_header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/Image_Carousel2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/baraban.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/bmh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/bp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/cas1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/casP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/davl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/galer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/imageP1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/kaps.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/kass.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/kat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/kont.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/kont2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/lest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/nak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/nakop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/ogrj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/ogrj1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/piramida.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/place.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/place1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/podmost.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/rolk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/shest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/shit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/stan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/tar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/upl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/voronka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/Бак для воды.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/Люлька для монолитчика.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/бадья.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/валы.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/захват маршей.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/катки.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/маховики.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/утепленныйящик.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/фланцы.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/шкаф.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/product/щиты.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/telegram_zltwtqsi7okn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/whatsapp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ВЕКТОР_transparent-.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MySort/MySort.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MySort/MySort.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion1/Accordion/Accordion.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion1/Accordion/Accordion.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion1/AccordionItem/AccordionItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion1/AccordionItem/AccordionItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion2/Accordion2/Accordion2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion2/Accordion2/Accordion2.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion2/AccordionItem/AccordionItem2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Accordion2/AccordionItem/AccordionItem2.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AccordionHr1/AccordionHr/AccordionHr.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AccordionHr1/AccordionHr/AccordionHr.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AccordionHr1/AccordionItemHr/AccordionItemHr.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AccordionHr1/AccordionItemHr/AccordionItemHr.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MenuButton/MenuButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyArea/MyArea.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyArea/MyArea.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyButton/MyButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyButton/MyButton.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyButtonForm/MyButtonForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyButtonForm/MyButtonFrom.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyButtonProduct/MyButtonProduct.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyCarousel/MyCarousel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyCarousel/MyCarousel.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyForm/MyForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyForm/MyForm.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyInput/MyInput.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MyInput/MyInput.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/MySearch/MySearch.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useClickOutside.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useContactForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useMediaQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useOutsideAlerter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/scss/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/scss/app.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/scss/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/scss/breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/scss/classes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/scss/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/scss/vars.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2s4aJchPJGyYWEdKtaae3oKG3UB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Работа/Заказ Леша/my-app/src/components/ui/Accordion2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Работа\Заказ Леша\my-app\src\components\ui\Accordion2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Работа\Заказ Леша\my-app\src\app\api\users" />
+      <recent name="D:\Работа\Заказ Леша\my-app\src\app" />
+      <recent name="D:\Работа\Заказ Леша\my-app\src\pages" />
+      <recent name="D:\Работа\Заказ Леша\my-app\src\app\pages" />
+      <recent name="D:\Работа\Заказ Леша\my-app\pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf22cc6c-04d5-4755-a320-d9913c6d58f2" name="Changes" comment="" />
+      <created>1737717232714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737717232714</updated>
+      <workItem from="1737717235450" duration="33639000" />
+      <workItem from="1737795879069" duration="24338000" />
+      <workItem from="1738002077435" duration="11718000" />
+      <workItem from="1738069881444" duration="17876000" />
+      <workItem from="1738158717895" duration="7587000" />
+      <workItem from="1738249848720" duration="12560000" />
+      <workItem from="1738426329171" duration="5026000" />
+      <workItem from="1738439379492" duration="20216000" />
+      <workItem from="1738513219160" duration="1705000" />
+      <workItem from="1738592617253" duration="25801000" />
+      <workItem from="1738678978135" duration="15598000" />
+      <workItem from="1738767461461" duration="18509000" />
+      <workItem from="1739211835396" duration="3767000" />
+      <workItem from="1739260555595" duration="4203000" />
+      <workItem from="1739310261364" duration="8935000" />
+      <workItem from="1739386155948" duration="5916000" />
+      <workItem from="1740163508698" duration="3520000" />
+      <workItem from="1740216088829" duration="3720000" />
+      <workItem from="1740317036562" duration="6499000" />
+      <workItem from="1740369741213" duration="3672000" />
+      <workItem from="1740424060864" duration="5301000" />
+      <workItem from="1740444781175" duration="2000" />
+      <workItem from="1740769785313" duration="3174000" />
+      <workItem from="1740924135109" duration="9000" />
+      <workItem from="1740924344806" duration="3000" />
+      <workItem from="1740982750410" duration="2381000" />
+      <workItem from="1740985180124" duration="1807000" />
+      <workItem from="1740987039075" duration="1976000" />
+      <workItem from="1741092498679" duration="1923000" />
+      <workItem from="1741283041024" duration="6174000" />
+      <workItem from="1741301588412" duration="924000" />
+      <workItem from="1741360781501" duration="337000" />
+      <workItem from="1741361162299" duration="389000" />
+      <workItem from="1741361572725" duration="269000" />
+      <workItem from="1741362571246" duration="2000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit from Create Next App">
+      <created>1741301832742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741301832742</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit from Create Next App">
+      <created>1741301845988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741301845988</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit from Create Next App">
+      <created>1741301973783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741301973783</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit from Create Next App">
+      <created>1741302061359</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741302061359</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit from Create Next App">
+      <created>1741302109891</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741302109891</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit from Create Next App">
+      <created>1741302157587</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741302157587</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit from Create Next App">
+      <created>1741302275048</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741302275048</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit from Create Next App" />
+    <MESSAGE value="Initial commit from Create" />
+    <MESSAGE value="Initial commit ffgfgfffdrom Create" />
+    <MESSAGE value="Initial commit ffgfgfm Create" />
+    <MESSAGE value="Initial commit ffgfm Create" />
+    <MESSAGE value="Inal commit ffgfm Cre" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inal commit ffgfm Cre" />
+  </component>
+</project>
