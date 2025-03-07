@@ -171,7 +171,7 @@ export default function Home() {
                     </p>
                 </div>
                 <div>
-                    <Image src={svar} className={"image_block_none border_rad"}/>
+                    <Image src={svar} className={"image_block_none border_rad"} width={600}/>
                 </div>
             </div>
         </div>
